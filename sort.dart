@@ -17,7 +17,7 @@ class _SortPageState extends State<SortPage> {
         child: Column(
           children: [
             SizedBox(
-              height: 20,
+              height: 390,
             ),
             Row(
               children: [
@@ -27,7 +27,7 @@ class _SortPageState extends State<SortPage> {
                 ),
                 IconButton(
                   icon: Icon(
-                    Icons.arrow_back_ios_new,
+                    Icons.arrow_back_ios,
                     size: 25,
                   ),
                   onPressed: () {
