@@ -17,7 +17,7 @@ class _SortPageState extends State<SortPage> {
         child: Column(
           children: [
             SizedBox(
-              height: 10,
+              height: 20,
             ),
             Row(
               children: [
